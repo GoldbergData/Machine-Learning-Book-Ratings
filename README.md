@@ -1,1 +1,1 @@
-# Machine-Learning-Book-Reviews
+# Machine-Learning-Book-Ratings

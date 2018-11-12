@@ -48,6 +48,9 @@ books.book_author.replace(np.nan, "Unknown", inplace=True)
 
 # Ratings is clean
 
+# removing the rows with an implicit book_rating of 0
+ratings = ratings[ratings.book_rating!=0]
+
 users_clean.to_csv("./data/clean/users_clean.csv", sep=",", encoding="utf-8")
 books.to_csv("./data/clean/books_clean.csv", sep=",", encoding="utf-8")
 ratings.to_csv("./data/clean/ratings_clean.csv", sep=",", encoding="utf-8")

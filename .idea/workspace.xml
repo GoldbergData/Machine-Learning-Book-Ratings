@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43fd7c98-037c-4e76-b9dd-4bd04fb119c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning-Book-Ratings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine-Learning-Book-Ratings.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/THANKS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/book_tags.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/books.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/books_xml/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/books_xml/books_xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/books_xml/sample_book.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/contrib/Philipp Spachtholz - Book Recommender - Collaborative Filtering, Shiny.Rmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/contrib/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/quick_look.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/ratings.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/samples/book_tags.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/samples/books.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/samples/ratings.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/samples/tags.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/samples/to_read.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/tags.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodbooks-10k/to_read.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/data_clean-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/data_clean-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_clean.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -199,7 +178,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16422467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -215,14 +193,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29183674" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.4367347" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.43265307" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4367347" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4981884" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49820143" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="370" height="850" id="Documentation" order="5" sideWeight="0.5018116" side_tool="true" visible="true" weight="0.32967034" />
+      <window_info anchor="right" x="0" y="0" width="370" height="850" id="Documentation" order="5" sideWeight="0.50179857" side_tool="true" visible="true" weight="0.32967034" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

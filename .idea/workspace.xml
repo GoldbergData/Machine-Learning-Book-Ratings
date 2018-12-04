@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43fd7c98-037c-4e76-b9dd-4bd04fb119c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/books_retrieved_0_through_961.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/clean/reduced_books_users_ratings_locations.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning Project - SVD Method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Project - SVD Method.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Merge and unifying isbn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Merge and unifying isbn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/clean/books_users_ratings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/clean/books_users_ratings.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +28,7 @@
     <session id="-813787948">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
@@ -57,12 +52,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="267" />
-          <entry key="py" value="556" />
+          <entry key="py" value="557" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="823" />
+          <entry key="Python" value="824" />
         </counts>
       </usages-collector>
     </session>
@@ -72,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-129">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="289">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -256,8 +251,8 @@
     <entry file="file://$PROJECT_DIR$/.idea/data.py" />
     <entry file="file://$PROJECT_DIR$/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="289">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

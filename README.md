@@ -1,4 +1,4 @@
-# Machine-Learning-Book-Ratings
+# Book Recommendation Systems
 
 This repository includes approaches to clean, transform and run recommendation algorithms on the [Book Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) data set.
 

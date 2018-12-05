@@ -1,6 +1,6 @@
 # Machine-Learning-Book-Ratings
 
-This repository includes code to clean, transform and run recommendation algorithms on the [Book Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) data set.
+This repository includes approaches to clean, transform and run recommendation algorithms on the [Book Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) data set.
 
 Algorithms used:
 

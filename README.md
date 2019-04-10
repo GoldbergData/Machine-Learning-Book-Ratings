@@ -1,6 +1,6 @@
 # Book Recommendation Systems
 
-This repository includes approaches to clean, transform and run recommendation algorithms on the [Book Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) data set. We used some of the data cleaning approaches found [here](https://github.com/tttgm/fellowshipai).
+This repository includes approaches to clean, transform and run recommendation algorithms on the [Book Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) data set. We followed some of the data cleaning approaches found [here](https://github.com/tttgm/fellowshipai).
 
 Algorithms used:
 
